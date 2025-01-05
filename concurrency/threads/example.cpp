@@ -7,6 +7,15 @@
 //*                                                                         *//
 //***************************************************************************//
 
+//***************************************************************************//
+//*                                                                         *//
+//*  Copyright (c) 2024-2025 Clifford Thompson                              *//
+//*                                                                         *//
+//*  All code in this file is released under Creative Commons Attribution   *//
+//*  (CC-BY) license : https://creativecommons.org/licenses/by/4.0/.        *//
+//*                                                                         *//
+//***************************************************************************//
+
 #include <iostream>
 #include <thread>
 
