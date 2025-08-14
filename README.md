@@ -4,7 +4,7 @@ Examples of modern C++ features for future reference (C++11 and beyond).
 
 ## Features to Try Out
 
-* [std:format](https://en.cppreference.com/w/cpp/utility/format/format.html) - C++20
+* [std::format](https://en.cppreference.com/w/cpp/utility/format/format.html) - C++20
 * [Modules](https://en.cppreference.com/w/cpp/language/modules.html) - C++20
 * [User-defined Literals](https://en.cppreference.com/w/cpp/language/user_literal.html) - C++11
 * [std::source_location](https://en.cppreference.com/w/cpp/utility/source_location.html) - C++20. Replacement for __FILE__ and __LINE__ macro use?
