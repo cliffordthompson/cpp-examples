@@ -18,3 +18,4 @@ Examples of modern C++ features for future reference (C++11 and beyond).
 * [Translation-unit-local entities](https://en.cppreference.com/w/cpp/language/tu_local.html) - C++20
 * [Ranges Library](https://en.cppreference.com/w/cpp/ranges.html) - C++20
 * [Print Functions](https://en.cppreference.com/w/cpp/io.html#Print_functions) - C++23
+* [std::variant](https://en.cppreference.com/w/cpp/utility/variant.html) - C++17
